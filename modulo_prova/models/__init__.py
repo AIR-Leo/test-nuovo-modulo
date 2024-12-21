@@ -1,1 +1,1 @@
-from . import your_model
+from . import competenza_widget
